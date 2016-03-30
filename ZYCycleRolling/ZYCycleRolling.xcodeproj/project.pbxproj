@@ -496,6 +496,7 @@
 				2974A32C1CAAC00100B4755C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2974A32D1CAAC00100B4755C /* Build configuration list for PBXNativeTarget "ZYCycleRollingTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +505,7 @@
 				2974A32F1CAAC00100B4755C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2974A3301CAAC00100B4755C /* Build configuration list for PBXNativeTarget "ZYCycleRollingUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +514,7 @@
 				2974A3321CAAC00100B4755C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
