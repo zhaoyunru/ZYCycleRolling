@@ -7,9 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "DGRollingView.h"
 
 @interface ViewController : UIViewController
 
+@property (nonatomic, copy)NSMutableArray *dataArray;
 
 @end
 
